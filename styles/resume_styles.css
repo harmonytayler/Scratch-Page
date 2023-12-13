@@ -1,0 +1,31 @@
+p {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    color: maroon;
+}
+
+ol {color: rgb(156, 0, 0);}
+ul {color: rgb(188, 47, 47);}
+
+h4 {
+    font-size: 40px;
+    color: maroon;
+    text-align: center;
+    padding-top: 30px;
+}
+
+body {background-color: rgb(173, 189, 168);}
+
+a {color: maroon;}
+a:visited {color: rgb(56, 0, 0);}
+a:hover {
+    font-weight: bold;
+    color: maroon;
+}
+
+.footsies {color: rgb(145, 91, 91);}
+
+.photo2 {float: right;}
+
+.bigger {font-size: larger;}
+.center {text-align: center;}
